@@ -1,0 +1,7 @@
+setup.py
+moreru/__init__.py
+moreru/moreru.py
+moreru.egg-info/PKG-INFO
+moreru.egg-info/SOURCES.txt
+moreru.egg-info/dependency_links.txt
+moreru.egg-info/top_level.txt
